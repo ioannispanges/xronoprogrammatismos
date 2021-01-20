@@ -15,7 +15,7 @@ Tα βασικά βήματα ώστε ο χρήστης να τρέξει έν�
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-[Link](url)
+[https://github.com/ioannispanges/xronoprogrammatismos/blob/main/timetable%20reader.c](url)
 # Header 1
 ## Header 2
 ### Header 3
@@ -28,7 +28,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://github.com/ioannispanges/xronoprogrammatismos/blob/main/timetable%20reader.c)
+[Link]()
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
