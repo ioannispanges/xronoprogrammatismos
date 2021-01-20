@@ -39,7 +39,13 @@
 
 
 
+**Τρίτο Βήμα**
+γ. Δημιουργία .exe αρχείου για την εκτέλεση του προγράμματος 
 
+![Screenshot_2](https://user-images.githubusercontent.com/72886828/105191382-abe65b80-5b3f-11eb-9d8c-f84a857e6152.png)
+
+![Screenshot_3](https://user-images.githubusercontent.com/72886828/105191551-e51ecb80-5b3f-11eb-952d-5126ce08a996.png)
+C/C++: gcc.exe build active file
 
 **Πρωτο Βήμα**
 **Πρωτο Βήμα**
