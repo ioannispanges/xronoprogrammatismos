@@ -11,13 +11,13 @@
 
  Markup :
  
-1.[Χρονοπρογραμματισμος Εξετάσεων](https://github.com/ioannispanges/xronoprogrammatismos/blob/main/timetable%20reader.c).
+1. [Χρονοπρογραμματισμος Εξετάσεων](https://github.com/ioannispanges/xronoprogrammatismos/blob/main/timetable%20reader.c).
 
 
-2.[Δεδομένα του προβλήματος](https://github.com/ioannispanges/xronoprogrammatismos/blob/main/toronto%20.zip).
+2. [Δεδομένα του προβλήματος](https://github.com/ioannispanges/xronoprogrammatismos/blob/main/toronto%20.zip).
 
 
-3.[Ενδεικτικές λύσεις προβλημάτων](https://github.com/ioannispanges/xronoprogrammatismos/blob/main/good_solutions1%20.zip).
+3. [Ενδεικτικές λύσεις προβλημάτων](https://github.com/ioannispanges/xronoprogrammatismos/blob/main/good_solutions1%20.zip).
 
 
 
