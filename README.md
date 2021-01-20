@@ -1,2 +1,2 @@
-# xronoprogrammatismos
+# "Αλγόριθμοι και Πολυπλοκότητα” Χρονοπρογραμματισμός εξετάσεων Πανεπιστημίου V1.0
 Xronoprogrammatismos
