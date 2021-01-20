@@ -10,7 +10,7 @@
 **Β. Πλήρης κώδικας της εφαρμογής**
 
  
-1. [Χρονοπρογραμματισμος Εξετάσεων](https://github.com/ioannispanges/xronoprogrammatismos/blob/main/timetable%20reader.c).
+<ul><li>[Χρονοπρογραμματισμος Εξετάσεων](https://github.com/ioannispanges/xronoprogrammatismos/blob/main/timetable%20reader.c).</li></ul>
 
 
 2. [Δεδομένα του προβλήματος](https://github.com/ioannispanges/xronoprogrammatismos/blob/main/toronto%20.zip).
