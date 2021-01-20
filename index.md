@@ -71,7 +71,6 @@
 
 
 ![Screenshot_5](https://user-images.githubusercontent.com/72886828/105194357-2c0dc080-5b42-11eb-997e-9a1fc2c70abd.png)
-
 ###### Γραφικό περιβάλλον εφαρμογής
 
 
