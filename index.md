@@ -46,7 +46,6 @@
 ![Screenshot_2](https://user-images.githubusercontent.com/72886828/105191382-abe65b80-5b3f-11eb-9d8c-f84a857e6152.png)
 
 ![Screenshot_3](https://user-images.githubusercontent.com/72886828/105191551-e51ecb80-5b3f-11eb-952d-5126ce08a996.png)
-
 ###### Εξαγωγή προγράμματος:C/C++: gcc.exe build active file
 
 
@@ -55,7 +54,6 @@
 δ. Εκτέλεση προγράμματος
 
 ![Screenshot_4](https://user-images.githubusercontent.com/72886828/105192200-87d74a00-5b40-11eb-8f69-ecb24e92f627.png)
-
 ###### Αρχείο .exe
 
 
