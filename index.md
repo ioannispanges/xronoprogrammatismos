@@ -9,7 +9,6 @@
 
 **Β. Πλήρης κώδικας της εφαρμογής**
 
- Markup :
  
 1. [Χρονοπρογραμματισμος Εξετάσεων](https://github.com/ioannispanges/xronoprogrammatismos/blob/main/timetable%20reader.c).
 
@@ -19,6 +18,8 @@
 
 3. [Ενδεικτικές λύσεις προβλημάτων](https://github.com/ioannispanges/xronoprogrammatismos/blob/main/good_solutions1%20.zip).
 
+
+**Γ. Οδηγίες εγκατάστασης**
 
 
 **Δ. Οδηγίες εκτέλεσης**
