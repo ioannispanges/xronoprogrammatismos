@@ -15,7 +15,7 @@ Tα βασικά βήματα ώστε ο χρήστης να τρέξει έν�
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-[https://github.com/ioannispanges/xronoprogrammatismos/blob/main/timetable%20reader.c](url)
+[Χρονοπρογραμματισμός Εξετάσεων](https://github.com/ioannispanges/xronoprogrammatismos/blob/main/timetable%20reader.c)
 # Header 1
 ## Header 2
 ### Header 3
