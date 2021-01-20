@@ -70,7 +70,7 @@
 
 
 
-![Καταγραφή](https://user-images.githubusercontent.com/72886828/105194041-db966300-5b41-11eb-9f14-794a0c2cde63.PNG)
+![Screenshot_5](https://user-images.githubusercontent.com/72886828/105194357-2c0dc080-5b42-11eb-997e-9a1fc2c70abd.png)
 
 ###### Γραφικό περιβάλλον εφαρμογής
 
