@@ -82,3 +82,4 @@
 ###### Σημείωση: 
 Για να εκτελεστεί το πρόγραμμα πρέπει να κάνουμε αποσυμπίεση(.zip) τα αρχεία 
 [Δεδομένα του προβλήματος](https://github.com/ioannispanges/xronoprogrammatismos/blob/main/toronto%20.zip).
+[Ενδεικτικές λύσεις προβλημάτων](https://github.com/ioannispanges/xronoprogrammatismos/blob/main/good_solutions1%20.zip)
