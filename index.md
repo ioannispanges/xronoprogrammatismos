@@ -83,6 +83,7 @@
 
 
 **Β. Τεχνική αναφορά εφαρμογής**
+
 [Download technical report](https://github.com/ioannispanges/xronoprogrammatismos/blob/main/techical_report.docx)
 
 
