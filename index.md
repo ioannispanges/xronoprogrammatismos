@@ -19,7 +19,11 @@
 3. [Ενδεικτικές λύσεις προβλημάτων](https://github.com/ioannispanges/xronoprogrammatismos/blob/main/good_solutions1%20.zip).
 
 
+4. [Εκτέλεση αρχείου](https://github.com/ioannispanges/xronoprogrammatismos/blob/main/timetable%20reader.exe).
+
+
 **Γ. Οδηγίες εγκατάστασης**
+
 
 >**Πρωτο Βήμα**
 
@@ -74,3 +78,6 @@
 
 
 
+
+###### Σημείωση: 
+Για να εκτελεστεί το πρόγραμμα πρέπει να κάνουμε αποσυμπίεση(.zip) τα αρχεία [Δεδομένα του προβλήματος](https://github.com/ioannispanges/xronoprogrammatismos/blob/main/toronto%20.zip)., https://github.com/ioannispanges/xronoprogrammatismos/blob/main/good_solutions1%20.zip
