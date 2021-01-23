@@ -7,6 +7,7 @@
 
 
 
+
 **Β. Πλήρης κώδικας της εφαρμογής**
 
  
@@ -22,6 +23,8 @@
 4. [Εκτέλεση αρχείου](https://github.com/ioannispanges/xronoprogrammatismos/blob/main/timetable%20reader.exe).
 
 
+
+
 **Γ. Εγκατάσταση Visual Studio Code για Windows**
 
 
@@ -32,12 +35,14 @@
 
 
 
+
+
 **Δ. Οδηγίες εγκατάστασης**
 
 
 >**Πρωτο Βήμα**
 
-α.Κατεβάζουμε το κώδικα από το αποθετήριο
+α. Κατεβάζουμε το κώδικα από το αποθετήριο
 
 [Κώδικας Χρονοπρογραμματισμού](https://github.com/ioannispanges/xronoprogrammatismos).
 
@@ -53,6 +58,7 @@
 
 
 
+
 >**Τρίτο Βήμα**
 
 γ. Δημιουργία .exe αρχείου για την εκτέλεση του προγράμματος 
@@ -61,6 +67,8 @@
 
 ![Screenshot_3](https://user-images.githubusercontent.com/72886828/105191551-e51ecb80-5b3f-11eb-952d-5126ce08a996.png)
 ###### Εξαγωγή προγράμματος:C/C++: gcc.exe build active file
+
+
 
 
 
@@ -92,9 +100,11 @@
 
 
 
+
 **Τεχνική αναφορά εφαρμογής**
 
 [Download technical report](https://github.com/ioannispanges/xronoprogrammatismos/blob/main/techical_report%20.pdf)
+
 
 
 
