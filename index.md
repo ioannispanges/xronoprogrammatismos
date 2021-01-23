@@ -22,14 +22,16 @@
 4. [Εκτέλεση αρχείου](https://github.com/ioannispanges/xronoprogrammatismos/blob/main/timetable%20reader.exe).
 
 
-**Εγκατάσταση Visual Studio Code για Windows**
+**Γ. Εγκατάσταση Visual Studio Code για Windows**
 
-Μπορούμε να κατεβάσουμε το [Visual Code](https://code.visualstudio.com/)
-Εκτελoύμε το αρχείο που κατεβάσαμε και ακολουθούμε της οδηγίες εγκατάστασης που βρίσκονται [εδώ](https://github.com/ioannispanges/xronoprogrammatismos/blob/main/%CE%BF%CE%B4%CE%B7%CE%B3%CE%AF%CE%B5%CF%82_%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7%CF%82.zip)
-
+1.Μπορούμε να κατεβάσουμε το [Visual Code](https://code.visualstudio.com/)
 
 
-**Γ. Οδηγίες εγκατάστασης**
+2.Εκτελoύμε το αρχείο που κατεβάσαμε και ακολουθούμε της οδηγίες εγκατάστασης που βρίσκονται [εδώ](https://github.com/ioannispanges/xronoprogrammatismos/blob/main/%CE%BF%CE%B4%CE%B7%CE%B3%CE%AF%CE%B5%CF%82_%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7%CF%82.zip)
+
+
+
+**Δ. Οδηγίες εγκατάστασης**
 
 
 >**Πρωτο Βήμα**
@@ -74,7 +76,7 @@
 
 
 
-**Δ. Οδηγίες εκτέλεσης**
+**Ε. Οδηγίες εκτέλεσης**
 <p style='text-align: justify;'>Tα βασικά βήματα ώστε ο χρήστης να τρέξει ένα πρόβλημα του χρονοπρογραμματισμού των εξετάσεων θα περιγραφούν παρακάτω. Εκτελώντας το .exe μας παρουσιάζεται το shell. Η πρώτη επιλογή (Fortosi provlimatos) είναι για φόρτωση του αρχείου προβλήματος .stu που είναι τα μαθήματα. Η δεύτερη επιλογή (Euresi mathimatos), η οποία είναι χρήσιμη μόνο μετά την (1) είναι αναζήτηση του αριθμό των μαθητών που έχουν πάρει ένα μάθημα. Η επιλογή (3) είναι για φόρτωση του αρχείου .stu που είναι τα μαθήματα που έχουν πάρει όλοι οι φοιτητές του ιδρύματος. Μετά την εκτέλεση της υπάρχουν οι επιλογές (4-Euresi mathimatos lisis) και (5- Sunolikos arithmos mathimatwn) που είναι για αναζήτηση των μαθημάτων που έχει πάρει ένας τυχαίος φοιτητής καθώς και για την αναζήτηση του συνολικού αριθμού των μαθημάτων στο ίδρυμα. Έπειτα και αφού έχουν φορτωθεί τα δυο αρχεία του προβλήματος, με την επιλογή (6-Epilisi provlimatos) εισάγουμε αρχείο με κατάληξη .sol έτσι ώστε να συγκρίνουμε το κόστος λύσεων, με την επιλογή (6-Epilisi provlimatos) πρέπει να εισάγουμε και τον αριθμό περιόδου. </p>
 
 
@@ -89,7 +91,7 @@
 
 
 
-**Β. Τεχνική αναφορά εφαρμογής**
+**Τεχνική αναφορά εφαρμογής**
 
 [Download technical report](https://github.com/ioannispanges/xronoprogrammatismos/blob/main/techical_report%20.pdf)
 
