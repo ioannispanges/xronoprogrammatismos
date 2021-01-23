@@ -24,10 +24,11 @@
 
 **Γ. Εγκατάσταση Visual Studio Code για Windows**
 
-1.Μπορούμε να κατεβάσουμε το [Visual Code](https://code.visualstudio.com/)
+
+1. Μπορούμε να κατεβάσουμε το [Visual Code](https://code.visualstudio.com/)
 
 
-2.Εκτελoύμε το αρχείο που κατεβάσαμε και ακολουθούμε της οδηγίες εγκατάστασης που βρίσκονται [εδώ](https://github.com/ioannispanges/xronoprogrammatismos/blob/main/%CE%BF%CE%B4%CE%B7%CE%B3%CE%AF%CE%B5%CF%82_%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7%CF%82.zip)
+2. Εκτελoύμε το αρχείο που κατεβάσαμε και ακολουθούμε της οδηγίες εγκατάστασης που βρίσκονται [εδώ](https://github.com/ioannispanges/xronoprogrammatismos/blob/main/%CE%BF%CE%B4%CE%B7%CE%B3%CE%AF%CE%B5%CF%82_%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7%CF%82.zip)
 
 
 
