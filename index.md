@@ -11,7 +11,7 @@
 **Β. Πλήρης κώδικας της εφαρμογής**
 
  
-1. [Χρονοπρογραμματισμος Εξετάσεων](https://github.com/ioannispanges/xronoprogrammatismos/blob/main/xronoprogrammatismos.rar). 
+1. [Χρονοπρογραμματισμος Εξετάσεων](https://github.com/ioannispanges/xronoprogrammatismos/blob/main/xronoprogrammatismos.c). 
 
 
 2. [Δεδομένα του προβλήματος](https://github.com/ioannispanges/xronoprogrammatismos/blob/main/toronto%20.zip).
@@ -44,7 +44,7 @@
 
 α. Κατεβάζουμε το κώδικα από το αποθετήριο
 
-[Κώδικας Χρονοπρογραμματισμού](https://github.com/ioannispanges/xronoprogrammatismos).
+[Κώδικας Χρονοπρογραμματισμού](https://github.com/ioannispanges/xronoprogrammatismos/blob/main/xronoprogrammatismos.rar).
 
 >**Δεύτερο Βήμα**
 
