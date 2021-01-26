@@ -489,7 +489,7 @@ for(i=0;i<arraySizeX;i++)
 
 
 	double distancecost(int A,int B){
-		double cost=0;
+		auto cost=0;
 		int C=abs(A-B);
 		switch (C){
 		case 0:cost=400000000.0;break;
