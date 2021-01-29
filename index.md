@@ -22,7 +22,7 @@
 
 4. [Εκτέλεση αρχείου](https://github.com/ioannispanges/xronoprogrammatismos/blob/main/xronoprogrammatismos.exe).
 
-
+5. [Χρόνοι εφαρμογής-Σύγκριση](https://github.com/ioannispanges/xronoprogrammatismos/blob/main/XRONOI.pdf).
 
 
 **Γ. Εγκατάσταση Visual Studio Code για Windows**
