@@ -50,7 +50,7 @@
 
 β.Ανοίγουμε την εφαρμογή Visual Code και εισάγουμε το αρχείο κώδικα όπως παρουσιάζεται στην εικόνα
 
-![Screenshot_1](https://user-images.githubusercontent.com/72886828/105190765-029f6580-5b3f-11eb-909b-e1dde929f5ef.png)
+![Screenshot_1](https://user-images.githubusercontent.com/72886828/106316958-3fbdd300-6276-11eb-9182-a075114abbf9.png)
 
 
 
