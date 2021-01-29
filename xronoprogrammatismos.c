@@ -159,7 +159,7 @@ for(i=0;i<arraySizeX;i++)
 	printf( "1)----   Fortosi Provlimatos      ----\n"
 	        "2)----    Euresi mathimatos       ----\n"
 	        "3)---- Proswrini apothikeusi provlimatos ----\n"
-		    "4)----   Euresi mathimatos (lisis) ----\n"
+		    "4)----  Euresi mathimatos (proswrini apothikeusi)----\n"
 			"5)---- Sunolikos arithmos mathimatwn ----\n"
 			"6)----     Epilisi provlimatos	    ----\n");
 
