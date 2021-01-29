@@ -123,11 +123,11 @@ void filltable(struct courseintb **timetable,int courses,int timeslots){
 	fflush(stdin);
 	if((fp=fopen(filename,"r"))==NULL)
 	        {
-	                fprintf(stderr,"Error opening file %s",filename);
+	                fprintf(stderr,"provlima kata to anoigma tou arxeiou %s",filename);
 	                getchar();
 	        }else
 	        {
-	        	printf("File loaded succesfully \n ");
+	        	printf("to arxeio fortwthike epitixws \n ");
 	        }
 
 	        while (fgets(buffer,256, fp) != NULL)
@@ -142,19 +142,7 @@ void filltable(struct courseintb **timetable,int courses,int timeslots){
 
 	               }
 
-
-
 }
-
-
-
-
-
-
-
-
-
-
 struct courseintb** Make2dintArray(int arraySizeX){
 struct courseintb** theArray;
 int i;
@@ -165,17 +153,12 @@ for(i=0;i<arraySizeX;i++)
 }
    return theArray;
 }
-
-
-
-
-
 	int choices(void){
 
 	int choice=0;
 	printf( "1)----   Fortosi Provlimatos      ----\n"
 	        "2)----    Euresi mathimatos       ----\n"
-	        "3)----      Fortwsi lusis         ----\n"
+	        "3)---- Proswrini apothikeusi provlimatos ----\n"
 		    "4)----   Euresi mathimatos (lisis) ----\n"
 			"5)---- Sunolikos arithmos mathimatwn ----\n"
 			"6)----     Epilisi provlimatos	    ----\n");
@@ -276,7 +259,7 @@ for(i=0;i<arraySizeX;i++)
 			printf("Eisagwgi arxeiou <------.stu > \n\n\n");
 			gets(filename);
 			fflush(stdin);
-			//if((fp2=fopen("lse-f-91(9.82).sol","r"))==NULL)
+			//if((fp2=fopen("lse-f-91(9.82).stu","r"))==NULL)
 			if((fp2=fopen(filename,"r"))==NULL)
 			{
 				fprintf(stderr,"provlima kata to anoigma tou arxeiou %s",filename);
@@ -370,7 +353,7 @@ for(i=0;i<arraySizeX;i++)
 
 		if (found==0)
 		{
-			printf("Student not found!\n");
+			printf("o mathitis den vrethike!\n");
 		 }
 	}
 
@@ -391,15 +374,15 @@ for(i=0;i<arraySizeX;i++)
 			}while((found==0)&&(ptr!=NULL));
 	    if(found==1){
 		int i=0;
-		printf("O student me arithmo id  %d exei parei ta eksis mathimata \n ",ptr->student_id);
+		printf("O mathitis me arithmo id  %d exei parei ta eksis mathimata \n ",ptr->student_id);
 		do{
-			printf("%d\n",ptr->courses[i]);
+			printf("%d \n",ptr->courses[i]);
 			i++;
 	       }while(ptr->courses[i]!=0);
 	    }
 	    else
 	    {
-	    	printf("Student not found!\n");
+	    	printf("o mathitis den vrethike!\n");
 	    }
 	}
 
@@ -407,10 +390,10 @@ for(i=0;i<arraySizeX;i++)
 	void printallstudents(struct student *ptr){
 	do{
 			int i=0;
-			printf("o student me arithmo id  %d exei parei ta eksis mathimata \n ",ptr->student_id);
+			printf("o mathitis me arithmo id  %d exei parei ta eksis mathimata \n ",ptr->student_id);
 
 			do{
-				printf("%d\n",ptr->courses[i]);
+				printf("%d \n",ptr->courses[i]);
 				i++;
 				}while(ptr->courses[i]!=0);
 			 ptr=ptr->next;
@@ -482,17 +465,17 @@ for(i=0;i<arraySizeX;i++)
 					   }while(temp!=NULL);
 		}
 		//edw
-	printf("course sum is %d\n",sum);
+	printf("o arithmos twn mathimatwn einai  %d\n",sum);
 	}
 
 	////kostos analoga to distance
 
 
 	double distancecost(int A,int B){
-		auto cost=0;
+		double cost=0;
 		int C=abs(A-B);
 		switch (C){
-		case 0:cost=400000000.0;break;
+		case 0:cost=1.0;break;
 		case 1:cost=16.0;break;
 		case 2:cost=8.0;break;
 		case 3:cost=4.0;break;
