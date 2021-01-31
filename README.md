@@ -22,7 +22,7 @@
 
 4. [Εκτέλεση αρχείου](https://github.com/ioannispanges/xronoprogrammatismos/blob/main/xronoprogrammatismos.exe).
 
-
+5. [Χρόνοι εφαρμογής-Σύγκριση](https://github.com/ioannispanges/xronoprogrammatismos/blob/main/XRONOI.pdf).
 
 
 **Γ. Εγκατάσταση Visual Studio Code για Windows**
@@ -50,7 +50,7 @@
 
 β.Ανοίγουμε την εφαρμογή Visual Code και εισάγουμε το αρχείο κώδικα όπως παρουσιάζεται στην εικόνα
 
-![Screenshot_1](https://user-images.githubusercontent.com/72886828/105190765-029f6580-5b3f-11eb-909b-e1dde929f5ef.png)
+![Screenshot_1](https://user-images.githubusercontent.com/72886828/106316958-3fbdd300-6276-11eb-9182-a075114abbf9.png)
 
 
 
@@ -63,7 +63,7 @@
 
 γ. Δημιουργία .exe αρχείου για την εκτέλεση του προγράμματος 
 
-![Screenshot_2](https://user-images.githubusercontent.com/72886828/105191382-abe65b80-5b3f-11eb-9d8c-f84a857e6152.png)
+![Screenshot_2](https://user-images.githubusercontent.com/72886828/106325320-4e5eb700-6283-11eb-8301-209b0e1d6165.png)
 
 ![Screenshot_3](https://user-images.githubusercontent.com/72886828/105191551-e51ecb80-5b3f-11eb-952d-5126ce08a996.png)
 ###### Εξαγωγή προγράμματος:C/C++: gcc.exe build active file
@@ -91,7 +91,7 @@
 
 
 
-![Screenshot_5](https://user-images.githubusercontent.com/72886828/105194357-2c0dc080-5b42-11eb-997e-9a1fc2c70abd.png)
+![Screenshot_5](https://user-images.githubusercontent.com/72886828/106316958-3fbdd300-6276-11eb-9182-a075114abbf9.png)
 ###### Γραφικό περιβάλλον εφαρμογής
 
 
